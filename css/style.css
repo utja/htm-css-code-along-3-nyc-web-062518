@@ -55,3 +55,12 @@ figcaption {
 
 /* Pseudo Selector */
 
+#details a:link, #details a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+#details a:hover {
+  color: black;
+  text-decoration: underline;
+}
